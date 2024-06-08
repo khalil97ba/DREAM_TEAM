@@ -16,7 +16,7 @@ Cloner le dépôt sur votre machine locale
 
 bash
 Copier le code
-git clone https://github.com/votre-utilisateur/portfolio-html-css.git
+git clone https://github.com/khalil97ba/DREAM_TEAM.git
 Initialiser Git dans le dossier du projet portfolio
 
 bash
@@ -33,7 +33,7 @@ Committer les changements avec un message approprié
 
 bash
 Copier le code
-git commit -m "Ajout des fichiers initiaux du portfolio"
+git commit -m "Premier sauvegarge"
 Travail Collaboratif
 Inviter des collaborateurs à rejoindre votre dépôt
 
@@ -48,7 +48,7 @@ Faire des commits réguliers pour documenter la progression
 bash
 Copier le code
 git add .
-git commit -m "Décrire les modifications apportées"
+git commit -m "premiercommit"
 Fusion de Branches
 Créer une pull request pour fusionner la branche avec main
 
