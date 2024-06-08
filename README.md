@@ -33,7 +33,7 @@ Committer les changements avec un message approprié
 
 bash
 Copier le code
-git commit -m "Premier sauvegarge"
+git commit -m "initial commit"
 Travail Collaboratif
 Inviter des collaborateurs à rejoindre votre dépôt
 
@@ -48,7 +48,7 @@ Faire des commits réguliers pour documenter la progression
 bash
 Copier le code
 git add .
-git commit -m "premiercommit"
+git commit -m "premier commit"
 Fusion de Branches
 Créer une pull request pour fusionner la branche avec main
 
